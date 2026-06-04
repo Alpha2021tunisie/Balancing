@@ -1,1 +1,0 @@
-# Hybrid RE Framework Prototype\n\nGenerated from the framework described in the paper.
